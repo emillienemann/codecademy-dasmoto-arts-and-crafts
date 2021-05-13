@@ -1,3 +1,4 @@
+Note: All repositories labled with "codecademy-" in their names are created using step by step tutorials by CodeCademy. They are not 100% my work.
 # CodeCademy Dasmoto's Arts & Crafts project
 ## Introduction
 This is the "Dasmoto's Arts & Crafts" project from the CodeCademy Full-Stack Engineer Skill Path. It contains a simple website made with HTML & CSS.
